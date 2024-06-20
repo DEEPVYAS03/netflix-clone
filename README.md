@@ -60,3 +60,7 @@ npm start
 ```
 
 The app should now be running on `http://localhost:3000`.
+
+## Screenshot
+![netflix clone](https://github.com/DEEPVYAS03/netflix-clone/assets/113181349/37ccbd5e-50c2-4508-a791-cf12e4484635)
+
